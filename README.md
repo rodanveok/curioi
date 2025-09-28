@@ -60,3 +60,7 @@ Added new feature following security guidelines - ID: wh4noqnr
 ## Update 2025-09-28 19:35:00
 Added configuration for better user experience - ID: tnrfc0ck
 
+
+## Update 2025-09-28 19:35:09
+Updated documentation for better user experience - ID: av8qlh3r
+
